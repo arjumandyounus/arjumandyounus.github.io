@@ -29,13 +29,38 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ArjumandYounus
 github_username:  arjumandyounus
 
+# Author Profile
+author:
+  name             : "Arjumand Younus"
+  avatar           : "assets/images/headshot_arjumandyounus.jpg"
+  bio              : "Researcher Passionate About Data Science for Social Good"
+  location         : "Dublin, Ireland"
+  email            : arjumandyounus@gmail.com
+  github           : "arjumandyounus"
+  linkedin         : "arjumand-younus-b6437a7"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    :
+  steam            :
+  tumblr           :
+  twitter          : "ArjumandYounus"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+
+
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-paginate-v2
 
+# Reading Files
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -56,6 +81,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Outputting
+paginate: 10 # amount of posts to show
+paginate_path: "/blog/page:num/"
+
 # Defaults
 defaults:
   # _posts
@@ -69,3 +99,11 @@ defaults:
       comments: # true
       share: false
       related: true
+      author_profile: true
+  #pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

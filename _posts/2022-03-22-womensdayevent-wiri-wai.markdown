@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Women's Day Event by WIRI and WAI!"
 date:   2022-03-22 19:33:35 +0000
 categories: iwd2022
