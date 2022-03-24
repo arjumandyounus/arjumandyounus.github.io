@@ -3,26 +3,16 @@ title:  "Women's Day Event by WIRI and WAI!"
 date:   2022-03-22 19:33:35 +0000
 categories: iwd2022
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+For International Women's Day this year Women in Research, Ireland and Women in AI, Ireland collaborated and put together an event with the theme BreakTheBias in Artificial Intelligence. 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+As Sheryl Sandberg has put it, "We need women at all levels, including the top, to change the dynamic, reshape the conversation, to make sure women’s voices are heard and heeded, not overlooked and ignored."
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I spoke alongside inspiring women Georgiana Ifrim & Iva Simon-Bubalo from academia, research, and industry under moderation of our amazing WAI committee member Haoio (Karin) Cheong. We celebrated the achievements, learned about each others' incredible journeys, and how passions for #AI, #DataScience, and #DataAnalytics are being pursued while also caring for our families. It was such an enjoyable chat and a great learning experience.
 
-Jekyll also offers powerful support for code snippets:
+Here’s a teaser of our session. You can find the full version on Women in AI's Youtube account.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+<iframe width="480" height="360" src="http://www.youtube.com/embed/RwS68B0U1xk" frameborder="0"> </iframe>
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+

@@ -1,4 +1,5 @@
 source "https://rubygems.org"
+gem 'jekyll-spaceship'
 
 gem "jekyll-include-cache", group: :jekyll_plugins
 # Hello! This is where you manage which Jekyll version is used to run.

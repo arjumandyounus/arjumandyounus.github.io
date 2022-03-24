@@ -1,0 +1,7 @@
+main:
+  - title: "Home"
+    url: /index/
+  - title: "News"
+    url: /blog/
+
+
