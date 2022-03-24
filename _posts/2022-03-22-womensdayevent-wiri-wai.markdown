@@ -14,6 +14,6 @@ Here’s a teaser of our session. You can find the full version on Women in AI's
 
 
 
-<iframe id="video" width="560" height="315" src="http://www.youtube.com/embed/RwS68B0U1xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/RwS68B0U1xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
