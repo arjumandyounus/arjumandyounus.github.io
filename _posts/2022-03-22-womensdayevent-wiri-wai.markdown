@@ -12,7 +12,8 @@ I spoke alongside inspiring women Georgiana Ifrim & Iva Simon-Bubalo from academ
 
 Here’s a teaser of our session. You can find the full version on Women in AI's Youtube account.
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/RwS68B0U1xk" frameborder="0"> </iframe>
 
+
+<iframe id="video" width="560" height="315" src="http://www.youtube.com/embed/RwS68B0U1xk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 
