@@ -12,7 +12,7 @@ For those who don't know it's like a joint table discussion at Houses of Irish P
 {: refdef}
 
 
-It is indeed an honor to take up this significant role and more so as a migrant woman from Pakistan. When I came here to do my PhD studies I had never imagined a day would come when I could play a role, or at least put forward some recommendations for future policymaking with regards to higher education. 
+It is indeed an honor to take up this significant role and more so as a migrant woman from Pakistan. When I came to Ireland to do my PhD studies I had never imagined a day would come when I could play a role, or at least put forward some recommendations for future policymaking with regards to higher education here. 
 
 
 
