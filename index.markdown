@@ -27,6 +27,16 @@ Covered in [Irish Times' New to the Parish Series](https://www.irishtimes.com/li
 [InEire: Towards an Inclusive Ireland through an Economic Assessment of Anti-Immigrant Sentiment in Ireland](https://www.tudublin.ie/research/news/tu-dublin-researcher-dr-muhammad-atif-qureshi-awarded-irc-funding-.html){:target="_blank"}{:rel="noopener noreferrer"} funded by Irish Research Council: involved as an academic partner \
 [RCES: Rapid Cues Exploratory Search Using Taxonomies For COVID-19](https://arrow.tudublin.ie/creaart/25/){:target="_blank"}{:rel="noopener noreferrer"}: involved as an academic partner 
 
+## Awards
+[Best Project Award under Net-COVID (Network Epidemiology in Times of Coronavirus)](https://sites.google.com/umd.edu/net-covid/home/working-group-series/awards?authuser=0){:target="_blank"}{:rel="noopener noreferrer"} by University of Maryland’s COMBINE program in Network Biology in partnership with the University of Vermont’s Complex Systems Center (2020) \
+Best Short Paper Award at 8th International Conference of the CLEF (Conference and Labs of the Evaluation Forum) Association (2017) \
+Best Poster Award at European Conference on Information Retrieval ECIR (2014) \
+[Google Anita Borg Scholarship (now Women Techmakers) for Women in Computing for Europe, Middle East and Africa (2013)](https://www.nuigalway.ie/about-us/news-and-events/news-archive/2013/october2013/nui-galway-student-awarded-prestigious-google-anita-borg-memorial-scholarship.html){:target="_blank"}{:rel="noopener noreferrer"} \
+Hardiman Scholarship from National University of Ireland, Galway for PhD (2011) \
+KAIST Odysseus scholarship for MS (2009)
+
+
+
 
 
 
