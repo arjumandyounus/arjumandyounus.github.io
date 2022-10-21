@@ -14,6 +14,8 @@ Information Retrieval \
 Social Media Analytics 
 
 ## Other Affiliations and Engagements
+Geary Fellow, [Geary Institute for Public Policy](https://www.ucd.ie/geary/){:target="_blank"}{:rel="noopener noreferrer"}\
+Member, [UCD Centre for Digital Policy](https://digitalpolicy.ie/){:target="_blank"}{:rel="noopener noreferrer"}\
 Machine Learning and Data Analytics Lecturer (Part-Time) at [TU Dublin](https://www.tudublin.ie/){:target="_blank"}{:rel="noopener noreferrer"}\
 Co-Director of [Women in Research, Ireland](https://womeninresearch.ie/){:target="_blank"}{:rel="noopener noreferrer"}\
 PC Member, [ICWSM](https://www.icwsm.org/){:target="_blank"}{:rel="noopener noreferrer"}
